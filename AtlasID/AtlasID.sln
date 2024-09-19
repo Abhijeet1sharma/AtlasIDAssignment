@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtlasID", "AtlasID\AtlasID.csproj", "{796F991A-1AE7-48A2-8589-13E44DA56938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAtlas", "TestAtlas\TestAtlas.csproj", "{00D55C10-8322-494F-86EE-512729B25C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{1CDB574A-C000-44BF-922E-960F3327A711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{796F991A-1AE7-48A2-8589-13E44DA56938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796F991A-1AE7-48A2-8589-13E44DA56938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796F991A-1AE7-48A2-8589-13E44DA56938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796F991A-1AE7-48A2-8589-13E44DA56938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D55C10-8322-494F-86EE-512729B25C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D55C10-8322-494F-86EE-512729B25C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D55C10-8322-494F-86EE-512729B25C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D55C10-8322-494F-86EE-512729B25C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDB574A-C000-44BF-922E-960F3327A711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDB574A-C000-44BF-922E-960F3327A711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDB574A-C000-44BF-922E-960F3327A711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDB574A-C000-44BF-922E-960F3327A711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52924AD9-4506-4270-B051-05FFA9CD7B51}
+	EndGlobalSection
+EndGlobal
